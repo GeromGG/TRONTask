@@ -1,5 +1,5 @@
 # TRONTask
-##Задание:
+## Задание:
     1. Создание адреса
     Вход: ничего
     Выход:
@@ -39,7 +39,7 @@
     Пример:
     Вот тут внизу видна одна транзакция: https://nile.tronscan.org/#/address/TNPns1Wa3NZYozYKTJvsEshk6FS4opWgnf/transfers
     
-##Решение:
+## Решение:
     1. метод GetСouple()
     2. метод GetUsdtBalanceAsync(адрес)
     3. в разработке
